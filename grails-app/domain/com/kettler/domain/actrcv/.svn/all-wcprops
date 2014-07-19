@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/684/B2B/trunk/grails-app/domain/com/kettler/domain/actrcv
+END
+CustControl.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/actrcv/CustControl.groovy
+END
+BalanceForward.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/actrcv/BalanceForward.groovy
+END
+Distribution.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/actrcv/Distribution.groovy
+END
+BalanceForwardSummary.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/actrcv/BalanceForwardSummary.groovy
+END

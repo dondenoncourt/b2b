@@ -1,0 +1,17 @@
+Customer with Disc Allow:
+	KA2632: Salesman T08, INVD 5.00% beginDate NULL	 discallow1@kettlerusa.com
+	GA2380: Salesman S88, COOP 2.50% 2009-05-04 to 2010-02-28 discallow2@kettlerusa.com 	
+						  LOGI 1.50% 	
+						  RETN 4.00% 	
+
+Customer with Line Disc: 
+	AL0514: Salesman F12, profit center 2 and percent 27.10 linedisc@kettlerusa.com
+	items with profit center 2: 
+		1300-B item price: 0.001 
+		13000-20 item price: 425.00
+		3100-20 item price: 69.00      	
+    	
+BOM items: 1595K1, 218707, 3587K1         	
+
+Contract Price Item for AM0302W: 7851-590 contract price $840.00 item price: $1,000.00	
+

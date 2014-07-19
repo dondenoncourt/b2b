@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/subversion/b2bweb/!svn/ver/3492/B2B/trunk/grails-app/views/order
+END
+_shipToDataTableDialog.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_shipToDataTableDialog.gsp
+END
+home.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/home.gsp
+END
+_itemMasterDataTableDialog.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_itemMasterDataTableDialog.gsp
+END
+_custDataTableDialog.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_custDataTableDialog.gsp
+END
+_orderHeaderInfo.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/_orderHeaderInfo.gsp
+END
+customer.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/b2bweb/!svn/ver/3351/B2B/trunk/grails-app/views/order/customer.gsp
+END
+_shipInstrDataTableDialog.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_shipInstrDataTableDialog.gsp
+END
+completeOrder.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/completeOrder.gsp
+END
+_shipToDataTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_shipToDataTable.gsp
+END
+shiptoDataTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/shiptoDataTable.gsp
+END
+selectOrder.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/3492/B2B/trunk/grails-app/views/order/selectOrder.gsp
+END
+_itemMasterDataTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_itemMasterDataTable.gsp
+END
+_orderDataTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_orderDataTable.gsp
+END
+_orderTotal.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_orderTotal.gsp
+END
+_custDataTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_custDataTable.gsp
+END
+custDataTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/custDataTable.gsp
+END
+_shipInstrDataTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/_shipInstrDataTable.gsp
+END

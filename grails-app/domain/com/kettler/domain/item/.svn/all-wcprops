@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/1206/B2B/trunk/grails-app/domain/com/kettler/domain/item
+END
+ItemSalesHist.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/item/ItemSalesHist.groovy
+END
+ProfitCenter.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/item/ProfitCenter.groovy
+END
+ItemPrice.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/item/ItemPrice.groovy
+END
+Warehouse.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/item/Warehouse.groovy
+END

@@ -1,0 +1,130 @@
+body {
+	width:600pt;
+    background: #fff;
+    color: #333;
+    font: 10pt verdana, arial, helvetica, sans-serif;
+}
+.body, .full {
+	width:600pt;
+	float: left;
+    clear: both;
+    margin: 0 1pt 1pt 1pt;
+}
+
+
+div.col1 {
+    width:46%;
+    float:left;
+    clear:both;
+    margin: 10pt 10pt 1tpt 10pt;
+}
+div.col2 {
+    width:46%;
+    float:right;
+    clear:right;
+    margin: 0 10pt 10pt 10pt;
+}
+div.logo {
+	display: block; /* need to override main.css display:none */
+	width: 600pt; 
+	margin-bottom: 20pt;
+}
+div.logo ul {
+	list-style: none;
+}
+div.logo img {
+	float: left;
+	margin-right: 4pt;
+}
+div.logo h2 {
+	text-align: left;
+	color: black;
+	font-size: larger;
+}
+h1 {
+    font-size: 18pt !important;
+    margin-bottom: 4pt  !important;
+    text-align: center !important;
+}
+h2 {
+    font-size: 12pt !important;
+    margin-bottom: 2pt  !important;
+    text-align: left !important;
+    color: black;
+}
+h1.raReport, h1.title {
+    position: absolute;
+    left: 225pt;
+    top: 12pt;
+    font-size: x-large !important;
+    margin-bottom: 4pt  !important;
+    text-align: center !important;
+}
+
+table.wide {
+	width: 88%;
+}
+table.wide td { 
+    font-size: 7pt;
+}
+
+dl.wide dt {
+    width:400pt;
+    white-space: nowrap;
+}
+dl.wide dd {
+    width:400pt;
+    white-space: nowrap;
+}
+
+
+h3 {
+    font-size: large !important;
+    margin-top: 4pt  !important;
+	margin-bottom: 4pt  !important;
+}
+td, th { 
+    text-align: left;
+    vertical-align: top;
+}
+
+#raId {
+    position: absolute;
+    left: 375pt;
+    top: 2pt;
+}
+
+.pdf {
+    display: inline;  /* need to override main.css display:none */
+}
+.notPdf {
+    display: none  !important;
+}
+
+#raId dt, #raId dd{
+	font-size: 10pt; 
+}
+
+#legal {
+	position: absolute;
+	top: 9.32in;
+}
+#legal li {
+	font-size: 5pt;
+	font-style: italic;
+	width: 500pt;
+}
+#legal h5 {
+    font-size: 6pt !important;
+}
+
+
+
+/*
+.width8   { width: 8pt; }
+.width15  { width: 15pt; }
+.width25  { width: 25pt; }
+.width30  { width: 30pt; }
+.width40  { width: 40pt; }
+.width50  { width: 50pt; }
+*/

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/templates/scaffolding
+END
+Controller.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/templates/scaffolding/Controller.groovy
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/templates/scaffolding/edit.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/templates/scaffolding/create.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/templates/scaffolding/show.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/templates/scaffolding/list.gsp
+END
+picker.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/templates/scaffolding/picker.gsp
+END
+renderEditor.template
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/templates/scaffolding/renderEditor.template
+END

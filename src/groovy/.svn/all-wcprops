@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/src/groovy
+END
+SelectCustomerCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/696/B2B/trunk/src/groovy/SelectCustomerCommand.groovy
+END
+PopulateTestDomain.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/1206/B2B/trunk/src/groovy/PopulateTestDomain.groovy
+END
+DateMMDDYYUserType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/groovy/DateMMDDYYUserType.groovy
+END
+DateYYMMDDUserType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/groovy/DateYYMMDDUserType.groovy
+END
+TrimString.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/groovy/TrimString.groovy
+END
+DateCCYYMMDDUserType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/groovy/DateCCYYMMDDUserType.groovy
+END
+ListOrdersCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/groovy/ListOrdersCommand.groovy
+END
+SelectOrderCommand.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/src/groovy/SelectOrderCommand.groovy
+END
+YesBlankType.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/src/groovy/YesBlankType.groovy
+END

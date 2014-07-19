@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/b2bweb/!svn/ver/3506/B2B/trunk/grails-app/views/itemMasterExt
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/1289/B2B/trunk/grails-app/views/itemMasterExt/list.gsp
+END
+keywordMaint.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/3506/B2B/trunk/grails-app/views/itemMasterExt/keywordMaint.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/690/B2B/trunk/grails-app/views/itemMasterExt/show.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/690/B2B/trunk/grails-app/views/itemMasterExt/create.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/3540/B2B/trunk/grails-app/views/itemMasterExt/edit.gsp
+END
+itemMasterList.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/b2bweb/!svn/ver/1111/B2B/trunk/grails-app/views/itemMasterExt/itemMasterList.gsp
+END

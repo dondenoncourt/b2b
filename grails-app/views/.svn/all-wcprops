@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/subversion/b2bweb/!svn/ver/3521/B2B/trunk/grails-app/views
+END
+index.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/index.gsp
+END
+error.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/subversion/b2bweb/!svn/ver/1813/B2B/trunk/grails-app/views/error.gsp
+END
+_itemMasterDataTableDialog.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/_itemMasterDataTableDialog.gsp
+END
+dataTableDemo.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/dataTableDemo.gsp
+END

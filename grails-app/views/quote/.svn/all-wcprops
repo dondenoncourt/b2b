@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/quote
+END
+view.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/b2bweb/!svn/ver/1987/B2B/trunk/grails-app/views/quote/view.gsp
+END
+select.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/quote/select.gsp
+END

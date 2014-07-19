@@ -1,0 +1,21 @@
+Grails-UI was last updated in 2008 and it requires YUI (also last updated in 2008)
+But the YUI plugin tries to download a zip from Yahoo that is no longer available
+so I downloaded the YUI plugin and removed the Ant copy section in the install script
+then I zipped the directory
+long story short...
+
+grails install-plugin grails-yui-kettler.zip 
+
+then 
+grails install-plugin bubbling 
+then  
+grails install-plugin grails-ui
+
+Note the YUI install script used to:
+    mkdir(dir:"${basedir}/web-app/js/yui/${yuiVersion}")
+    copy(todir:"${basedir}/web-app/js/yui/${yuiVersion}") {
+        fileset(dir:"${downloadDir}/yui_${yuiVersion}/yui/build", includes:"** / **") denoncourt added spaces to stop the comment from ending
+    }
+so you need to be sure that web-app/js/yui exists (although it should be in subversion...)
+
+I probably should put grails-yui-kettler in a project and reference it like SharedDomainPlugin

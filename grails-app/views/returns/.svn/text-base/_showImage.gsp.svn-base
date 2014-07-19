@@ -1,0 +1,1 @@
+<img src="${createLink(action:'renderImage', params:[name:name])}" > 

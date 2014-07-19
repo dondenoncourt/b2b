@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/b2bweb/!svn/ver/2067/B2B/trunk/grails-app/views/dealerLocation
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/1799/B2B/trunk/grails-app/views/dealerLocation/list.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/2067/B2B/trunk/grails-app/views/dealerLocation/show.gsp
+END
+create.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/805/B2B/trunk/grails-app/views/dealerLocation/create.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/2067/B2B/trunk/grails-app/views/dealerLocation/edit.gsp
+END

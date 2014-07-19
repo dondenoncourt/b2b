@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/customer
+END
+invoicePrompt.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/customer/invoicePrompt.gsp
+END
+salesHist.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/customer/salesHist.gsp
+END
+arStmtsPrompt.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/customer/arStmtsPrompt.gsp
+END
+openInvoices.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/customer/openInvoices.gsp
+END
+salesHistItemDetail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/customer/salesHistItemDetail.gsp
+END
+openInvoiceDetail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/customer/openInvoiceDetail.gsp
+END
+_commStmtsBody.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/customer/_commStmtsBody.gsp
+END
+invoiceHistDetail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/customer/invoiceHistDetail.gsp
+END
+listRetailShiptoBillto.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/subversion/b2bweb/!svn/ver/2378/B2B/trunk/grails-app/views/customer/listRetailShiptoBillto.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/b2bweb/!svn/ver/1135/B2B/trunk/grails-app/views/customer/list.gsp
+END
+reportPrompt.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/customer/reportPrompt.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/customer/show.gsp
+END
+invoiceHist.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/customer/invoiceHist.gsp
+END
+edit.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/b2bweb/!svn/ver/1135/B2B/trunk/grails-app/views/customer/edit.gsp
+END
+commStmts.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/customer/commStmts.gsp
+END

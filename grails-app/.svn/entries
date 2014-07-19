@@ -1,0 +1,58 @@
+10
+
+dir
+3525
+http://www.kettlerusa.com:8888/subversion/b2bweb/B2B/trunk/grails-app
+http://www.kettlerusa.com:8888/subversion/b2bweb
+
+
+
+2014-01-22T21:11:25.250000Z
+3524
+donatdenoncourt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+420ed5f2-dd25-924b-aa04-312f27fbca0b
+
+i18n
+dir
+
+utils
+dir
+
+taglib
+dir
+
+realms
+dir
+
+services
+dir
+
+conf
+dir
+
+controllers
+dir
+
+domain
+dir
+
+jobs
+dir
+
+views
+dir
+

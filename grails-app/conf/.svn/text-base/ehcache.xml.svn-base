@@ -1,0 +1,30 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="ehcache.xsd">
+   <defaultCache
+         maxElementsInMemory="1000"
+         eternal="false"
+         timeToIdleSeconds="3600"
+         timeToLiveSeconds="3600"
+            overflowToDisk="false"
+            diskPersistent="false"
+            diskExpiryThreadIntervalSeconds="120"
+            memoryStoreEvictionPolicy="LRU"
+        />
+
+<!-- 
+	<cache name="com.kettler.domain.orderentry.SalesTax" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.Carrier" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.SalesPerson" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.PackListCode" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.FOBCode" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.Terms" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.Country" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.StateCode" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.PrintCode" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.orderentry.ReferenceCode" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+
+	<cache name="com.kettler.domain.actrcv.DiscountCode" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.actrcv.TableCode" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+	<cache name="com.kettler.domain.item.NatlMotorFreightClass" maxElementsInMemory="10000" eternal="false"  timeToIdleSeconds="300" timeToLiveSeconds="600" overflowToDisk="false"/>
+ -->        
+</ehcache>

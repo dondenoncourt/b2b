@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/b2bweb/!svn/ver/3469/B2B/trunk/grails-app/views/returns
+END
+_invoicedItemsByOrder.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/b2bweb/!svn/ver/1012/B2B/trunk/grails-app/views/returns/_invoicedItemsByOrder.gsp
+END
+showPdf.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/returns/showPdf.gsp
+END
+freightClaimReport.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/2973/B2B/trunk/grails-app/views/returns/freightClaimReport.gsp
+END
+list.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/returns/list.gsp
+END
+_invoicedOrderSelect.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/returns/_invoicedOrderSelect.gsp
+END
+report.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/returns/report.gsp
+END
+_invoicedOrderDataTable.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/returns/_invoicedOrderDataTable.gsp
+END
+_invoicedOrderDataTableDialog.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/returns/_invoicedOrderDataTableDialog.gsp
+END
+show.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/returns/show.gsp
+END
+_showImage.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/929/B2B/trunk/grails-app/views/returns/_showImage.gsp
+END
+createReturn.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/returns/createReturn.gsp
+END
+_showDetails.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/929/B2B/trunk/grails-app/views/returns/_showDetails.gsp
+END

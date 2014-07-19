@@ -1,0 +1,816 @@
+pre {
+	display:none;
+	clear:both;
+}
+html * {
+    margin: 0;
+    /*padding: 0; SELECT NOT DISPLAYED CORRECTLY IN FIREFOX */
+    font-size: 15px;
+}
+
+/* GENERAL */
+
+.spinner {
+    padding: 5px;
+    position: absolute;
+    right: 0;
+}
+
+bodykettler { /*denoncourt body clashed with, I think, YUI css */
+    background: #fff;
+    color: #333;
+    font: 14px verdana, arial, helvetica, sans-serif;
+}
+
+a:link, a:visited, a:hover {
+    color: #666;
+    font-weight: bold;
+    text-decoration: underline;
+} 
+
+h1 {
+    color: #006dba;
+    font-weight: normal;
+    font-size: 20px;
+    margin: .8em 0 .3em 0;
+    text-align: center;
+}
+
+h2 {
+    color: #006dba;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+}
+
+h3 {
+    color: #006dba;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+h4 {
+	text-align: center;
+}
+
+ul {
+    padding-left: 15px;	
+}
+
+input, select, textarea {
+    background-color: #fcfcfc;
+    border: 1px solid #ccc;
+    font: 12px verdana, arial, helvetica, sans-serif;
+    margin: 2px 0;
+    padding: 2px 4px;
+}
+select {
+   padding: 2px 2px 2px 0;
+}
+textarea {
+	width: 730px;
+	height: 60px;
+	vertical-align: top;
+}
+
+input:focus, select:focus, textarea:focus {
+    border: 1px solid #b2d1ff;
+}
+
+.body, .full {
+    float: left;
+    clear: both;
+    margin: 0 10px 10px 3px;
+    width: 1005px;   
+}
+
+
+/* NAVIGATION MENU */
+
+.nav {
+    background: #fff URL(../images/skin/shadow.jpg) bottom repeat-x;
+    border: 1px solid #ccc;
+    border-style: solid none solid none;	
+    margin-top: 5px;
+    padding: 7px 12px;
+}
+
+.menuButton {
+    font-size: 12px;
+    padding: 0 5px;
+}
+.menuButton a {
+    color: #333333;
+    padding: 4px 6px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.menuButton a:link, a:visited, a:hover {
+	color: #666666;
+	font-weight: bold;
+	text-decoration: none;
+}
+.menuButton a.home {
+    background: URL('../images/skin/house.png') center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+    text-decoration: none;
+}
+.menuButton a.list {
+    background: URL(../images/skin/database_table.png) center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+}
+.menuButton a.create {
+    background: URL(../images/skin/database_add.png) center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+}
+.menuButton a.go {
+    background: URL(../images/skin/database_go.png) center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+}
+.menuButton a.error {
+    background: URL(../images/skin/database_error.png) center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+}
+.menuButton a.search {
+    background: URL(../images/skin/search_16x16.png) center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+    text-decoration: none;
+}
+.menuButton a.pdfAnchor {
+    background: URL(../images/skin/pdficon_small.gif) center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+}
+.menuButton a.csvAnchor {
+    background: URL(../images/skin/csv25x25.gif) center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+}
+.menuButton a.linkButton {
+    background: URL(../images/skin/database_add.png) center left no-repeat;
+    color: #333333;
+    padding-left: 25px;
+    text-decoration: none;
+}
+.menuButton a.table {
+    background: transparent URL('../images/skin/database_table.png') 5px 50% no-repeat;
+    color: #333333;
+    padding-left: 28px;
+}
+
+/* MESSAGES AND ERRORS */
+
+.message {
+    background: #f3f8fc URL(../images/skin/information.png) 8px 50% no-repeat;
+    border: 1px solid #b2d1ff;
+    color: #006dba;
+    margin: 10px 0 5px 0;
+    padding: 5px 5px 5px 30px;
+    clear: both;
+}
+div.errors {
+    background: #fff3f3;
+    border: 1px solid red;
+    color: #cc0000;
+    margin: 10px 0 5px 0;
+    padding: 5px 0 5px 0;
+}
+div.errors ul {
+    list-style: none;
+    padding: 0;	
+}
+div.errors li {
+	background: URL(../images/skin/exclamation.png) 8px 0% no-repeat;
+    line-height: 16px;
+    padding-left: 30px;
+}
+
+.hold {
+    background: URL(../images/skin/stop.png) 8px 0% no-repeat;
+}
+	
+td.errors select {
+    border: 1px solid red;
+}
+td.errors input {
+    border: 1px solid red;
+}
+
+td.errors {
+    border: 1px solid red;
+}
+
+/* TABLES */
+
+table.wide {
+	width: 100%;
+}
+table {
+    border: 1px solid #ccc;
+    /* width: 100% */
+}
+tr {
+    border: 0;
+}
+tr.errors {
+    border: 1px solid red;
+    color: red;
+    font-weight: bold;
+}
+td, th { 
+    font: 13px verdana, arial, helvetica, sans-serif;
+    line-height: 12px;
+    padding: 5px 6px;
+    text-align: left;
+    vertical-align: top;
+}
+th {
+    background: #fff URL(../images/skin/shadow.jpg);
+    color: #666;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 17px;
+    padding: 2px 6px;
+}
+th a:link, th a:visited, th a:hover {
+    color: #333;
+    display: block;
+    font-size: 12px;
+    text-decoration: underline;
+    width: 100%;
+}
+th.asc a, th.desc a {
+    background-position: right;
+    background-repeat: no-repeat;
+}
+th.asc a {
+    background-image: URL(../images/skin/sorted_asc.gif);
+}
+th.desc a {
+    background-image: URL(../images/skin/sorted_desc.gif);
+}
+
+.odd {
+    background: #f7f7f7;
+}
+.even {
+    background: #fff;
+}
+
+/* LIST */
+
+.list div {
+    float:left;
+	clear: both;
+	
+}
+
+.list table {
+    border-collapse: collapse;
+}
+.list th, .list td {
+    border-left: 1px solid #ddd;
+}
+.list th:hover, .list tr:hover {
+    background: #b2d1ff;
+}
+.list a {
+    text-decoration: underline;	
+}
+
+/* PAGINATION */
+
+.paginateButtons {
+    background: #fff URL(../images/skin/shadow.jpg) bottom repeat-x;
+    border: 1px solid #ccc;
+    border-top: 0;
+    color: #666;
+    font-size: 12px;
+    overflow: hidden;
+    padding: 10px 3px;
+}
+.paginateButtons a {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-color: #ccc #aaa #aaa #ccc;
+    color: #666;
+    margin: 0 3px;
+    padding: 2px 6px;
+}
+.paginateButtons span {
+    padding: 2px 3px;
+}
+
+/* DIALOG */
+
+.dialog table {
+    padding: 5px 0;
+}
+
+div.dialog  {
+	width: 500px ;
+ 	margin-left: auto ;
+	margin-right: auto ;
+	clear: both;
+}
+.prop {
+    padding: 5px;
+}
+.prop .name {
+	width:20%;
+	text-align:right;
+}
+.prop .value {
+	width:25%;
+}
+
+/* ACTION BUTTONS */
+
+.linkButtons {
+	clear: both;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 0;
+    text-align: center;
+}
+.buttons {
+	clear: both;
+    background: #fff URL(../images/skin/shadow.jpg) bottom repeat-x;
+    border: 1px solid #ccc;
+    color: #666;
+    font-size: 12px;
+    margin-top: 5px;
+    /* overflow: hidden; denoncourt hid all in page2 */
+    padding: 0;
+}
+
+.buttons input {
+    background: #fff;
+    border: 0;
+    color: #333;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 3px;
+    overflow: visible;
+    padding: 2px 6px;
+}
+
+.buttons input.go {
+    background: transparent URL(../images/skin/database_go.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.error {
+    background: transparent URL(../images/skin/database_error.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.house {
+    background: transparent URL(../images/skin/database_house.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.add {
+    background: transparent URL(../images/skin/database_add.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.delete {
+    background: transparent URL(../images/skin/database_delete.png) 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.edit {
+    background: transparent URL('../images/skin/database_edit.png') 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.create {
+    background: transparent URL('../images/skin/database_add.png') 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.save {
+    background: transparent URL('../images/skin/database_save.png') 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.table {
+    background: transparent URL('../images/skin/database_table.png') 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.show {
+    background: transparent URL('../images/skin/database_show.png') 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.info {
+    background: transparent URL('../images/skin/information.png') 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.buttons input.search {
+	background: transparent URL('../images/skin/search_16x16.png') 5px 50% no-repeat;
+	padding-left: 28px;
+}
+
+.menuButton input.show {
+    background: transparent URL('../images/skin/database_show.png') 5px 50% no-repeat;
+    padding-left: 28px;
+}
+.menuButton input.search {
+	background: transparent URL('../images/skin/search_16x16.png') 5px 50% no-repeat;
+	padding-left: 28px;
+}
+.buttons a.table {
+    background: transparent URL('../images/skin/database_table.png') 5px 50% no-repeat;
+    padding-left: 28px;
+}
+
+
+/* from guidemo */
+.yui-tt {
+    background-color:#FFEE69;
+    border-color:#D4C237 #A6982B #A6982B;
+    border-style:solid;
+    border-width:1px;
+    color:#000000;
+    left:0;
+    padding:2px 5px;
+    position:relative;
+    width: 100px;
+    top:0;
+    z-index:1;
+}
+.yui-cms-tt .yui-panel {
+	text-align: left;
+}
+.yui-panel-container.yui-cms-tt.shadow .underlay {
+    top: 200px;
+    bottom: -2px;
+    right: -2px;
+    left: -2px;
+    padding-left: 4px;
+}
+.yui-cms-tt .yui-panel, .yui-cms-tt .yui-panel .bd {
+	color:#333;
+	background-color:#FDFFB4;
+	border-color:#FCC90D;
+}
+.yui-cms-tt .yui-panel .hd {
+	visible: hidden;
+	display: none;
+}
+
+/* denoncourt */
+
+.popup {
+    position: absolute;
+    background-color: #edf5ff;
+    border-color:#D4C237 #A6982B #A6982B;
+    border-style:solid;
+    border-width:1px;
+    color:#000000;
+    left:150;
+    top:150;
+    padding:2px 5px;
+    z-index:1;	    
+}
+.splitTermsDiv {
+	table-layout: fixed;
+	}
+
+dd.errors {
+	color: #cc0000;
+	font-weight: bold;
+}	
+
+
+dl {
+    margin-bottom:10px;
+}
+
+dl dt {
+    float:left;
+    clear:left;
+    font-weight:bold;
+    margin-right:10px;
+    padding:1px;
+    width:34%;
+    text-align: right;
+    white-space: nowrap;
+}
+
+dl dd {
+    margin:1px;
+    padding:1px;
+    width:65%;
+    text-align:left;
+    white-space: nowrap;
+}
+
+dl.search {
+    float:left;
+    clear:left;
+    margin: 2px 0 0 0;
+}
+dl.search dt, dl.search dd{
+    float:none;
+    clear:none;
+    display: inline;
+    width: auto;
+}
+ 
+dl.wide dt {
+	width:400px;
+    white-space: nowrap;
+}
+dl.wide dd {
+	width:400px;
+    white-space: nowrap;
+}
+
+dl dt.number {
+    text-align:right;
+}
+
+div.col1 {
+    float:left;
+    clear:both;
+    width:50%;
+    margin: 0 10px 10px 10px;
+}
+div.col2 {
+    float:right;
+    clear:right;
+    width:46%;
+}
+#sumInfoCol1 {
+    float:left;
+    clear:both;
+    width:60%;
+    margin: 0 10px 10px 10px;
+}
+#sumInfoCol2 {
+    float:right;
+    clear:right;
+    width:37%;
+}
+#sumInfoCol2.dt {
+	margin-bottom: 10px;
+}
+
+.question {
+	color:red;
+	font-style: italic;
+}
+.comment {
+	font-style: italic;
+}
+.number {
+	text-align: right;
+}
+.money {
+    text-align: right;
+    width: 6em;
+}
+.total {
+	font-weight: bold;
+	text-align: right;
+	white-space: nowrap;
+}
+.resicomm {
+	font-weight: bold;
+}
+#shipInstrDataTableDialog {
+	left: -999em; /* IE hack, reset onclick */
+	width: 550px;
+}
+#itemMasterDataTableDialog {
+   left: -999em;  /* IE hack, reset onclick */
+}
+#custDataTableDialog {
+   left: -999em;  /* IE hack, reset onclick */
+}	
+#itemMasterDataTableDiv {
+    width: 800px;
+}
+#shipToDataTableDiv {
+	width: 450px;
+}
+#custDataTableDiv {
+	width:750px;
+}
+#orderDataTableDiv {
+	width:575px;
+}
+#orderDataTablePromptDiv {
+	width:625px;
+}
+#histDiv {
+	width:475px;
+	position: relative;
+	left: 200px;
+}
+
+#discAllowDiv {
+	width:400px;
+	/*
+	position: relative;
+	left: 200px;
+	*/
+}
+#lineDiscDiv {
+	width:400px;
+}
+
+#same {
+	text-align: center;
+	font-size: large;
+	font-style: italic;
+}
+
+a.button {
+  border-style: solid;
+  border-width : 1px 4px 4px 1px;
+  text-decoration : none;
+  padding : 4px;
+  border-color : #69f #00f #00f #69f;
+}
+a.button:hover { border-color: #ccc; }
+a.button:link {
+  border-style: solid;
+  border-width : 1px 4px 4px 1px;
+  text-decoration : none;
+  padding : 4px;
+  border-color : #69f #00f #00f #69f;
+}
+input.prompt {
+  border-style: solid;
+  border-width : 1px 4px 4px 1px;
+  text-decoration : none;
+  padding : 4px;
+  border-color : #69f #00f #00f #69f;
+}
+
+.prompt {
+	font-weight:bold;
+}
+
+.yesNo {
+	text-transform: capitalize;
+	text-shadow: blue;
+}
+.date {
+	width:85px;
+}
+/* http://www.htmldog.com/articles/suckerfish/dropdowns/ */
+
+#nav, #nav ul { /* all lists */
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 1.25;
+	margin-left:4px;
+	z-index:9998;
+}
+#nav a {
+	display: block;
+	width: auto;/* 10em;*/
+	background-color: #f7f7f7; 
+    text-decoration: none;
+    font-size: 1.1em;
+}
+#nav li a:hover { 
+	background-color: #b2d1ff;
+	font-style: italic;
+	color: white;
+	z-index:  9997;
+}   
+#nav li { /* all list items */
+	float: left;
+	width: 10em; /* width needed or else Opera goes nuts */
+	border: 1px solid #888;
+}
+#nav li ul { /* second-level lists */
+	position: absolute;
+	background: #ddd;
+	width: 10em;
+	text-align: center;
+	left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+}
+#nav li ul ul { /* third-and-above-level lists */
+	margin: -1em 0 0 8em;
+}
+#nav li:hover ul ul, #nav li.sfhover ul ul {
+	left: -999em;
+	color: #fff;
+}
+#nav li:hover ul, #nav li li:hover ul, #nav li.sfhover ul, #nav li li.sfhover ul { /* lists nested under hovered list items */
+	left: auto;
+}
+
+a.printer {
+    padding-left: 18px;
+	background:   url(../images/skin/pdficon_small.gif) no-repeat center right;
+}
+/* home page images */
+#madeInGermany {
+	float: left;
+}
+
+#kettlerName {
+	position: absolute;
+	left: 275px;
+}
+#kettlerUsa {
+	position: absolute;
+	left: 910px;
+}
+.frontpage {
+    float:left;
+    clear:left;
+    background-image: url(../images/frontpage2.jpg);
+    background-repeat: no-repeat;
+    height: 698px;
+    width: 930px;
+}
+.frontpage p {
+    font-size: larger;
+    font-weight: bold;
+}
+.width4 {
+	width: 4em;
+}
+.width6 {
+	width: 6em;
+}
+.width8 {
+	width: 8em;
+}
+.width12 {
+	width: 12em;
+}
+.width20 {
+	width: 20em;
+}
+.width40 {
+	width: 40em;
+}
+
+.pdfTable {
+	width:700px;
+}
+.pdfHtml * {
+    font-size: 10px;
+}
+fieldset table {
+    border-style: none;
+}
+legend {
+	font-size: larger;
+    font-weight: bold;
+}
+
+#orderItemDialog {
+	border:thick;
+	border-style:outset;
+    min-width: 410px;
+}
+#orderItemDialog dt {
+    width:40%;
+}
+
+#addItemDialog {
+    border:thick;
+    border-style:outset;
+    min-width: 300px;
+}
+
+.width8   { width: 8em; }
+.width10  { width: 10em; }
+.width15  { width: 15em; }
+.width20  { width: 20em; }
+.width25  { width: 25em; }
+.width30  { width: 30em; }
+.width40  { width: 40em; }
+.width50  { width: 50em; }
+
+div.logo {
+	display: none; /* pdf only */ 
+}
+.pdf {
+	display: none;
+}
+.notPdf {
+	margin-bottom: 2px;
+}
+
+.ieSelectBleedFixHide {
+	display: none;
+}
+ul.dealerInv {
+	margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}

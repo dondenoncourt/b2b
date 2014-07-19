@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/3123/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry
+END
+OrderDates.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/OrderDates.groovy
+END
+QuoteDetailItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/b2bweb/!svn/ver/686/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/QuoteDetailItem.groovy
+END
+ContractPrice.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/ContractPrice.groovy
+END
+Location3rdPartyBill.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/Location3rdPartyBill.groovy
+END
+PackListCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/PackListCode.groovy
+END
+StandardComments.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/StandardComments.groovy
+END
+CustomerComments.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/CustomerComments.groovy
+END
+Order3rdPartyBill.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/Order3rdPartyBill.groovy
+END
+DiscountAllowanceCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/DiscountAllowanceCode.groovy
+END
+CustBillToAddr.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/CustBillToAddr.groovy
+END
+CustDiscAllow.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/CustDiscAllow.groovy
+END
+CustReq3rdPartyBill.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/CustReq3rdPartyBill.groovy
+END
+SalesGroup.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/SalesGroup.groovy
+END
+FreightDistCodes.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/FreightDistCodes.groovy
+END
+QuoteDetailMisc.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/b2bweb/!svn/ver/686/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/QuoteDetailMisc.groovy
+END
+CanadianProvinceCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/CanadianProvinceCode.groovy
+END
+FOBCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/FOBCode.groovy
+END
+QuoteDetailComment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/QuoteDetailComment.groovy
+END
+SalesTermsTier.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/SalesTermsTier.groovy
+END
+QuoteHeader.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/b2bweb/!svn/ver/686/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/QuoteHeader.groovy
+END
+Company.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/b2bweb/!svn/ver/1591/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/Company.groovy
+END
+OrderInvoiceMerge.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/OrderInvoiceMerge.groovy
+END
+Cust3rdPartyBill.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/Cust3rdPartyBill.groovy
+END
+StateCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/StateCode.groovy
+END
+SalesDivision.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/SalesDivision.groovy
+END
+CustomerContact.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/CustomerContact.groovy
+END
+Commission.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/Commission.groovy
+END
+PrintCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/PrintCode.groovy
+END
+ReferenceCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/ReferenceCode.groovy
+END
+Terms.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/domain/com/kettler/domain/orderentry/Terms.groovy
+END

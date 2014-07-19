@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/subversion/b2bweb/!svn/ver/1987/B2B/trunk/test/integration
+END
+RpgServiceTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/test/integration/RpgServiceTests.groovy
+END
+OrderServiceTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/1206/B2B/trunk/test/integration/OrderServiceTests.groovy
+END
+OrderDetailItemTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/699/B2B/trunk/test/integration/OrderDetailItemTests.groovy
+END
+ReturnTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/b2bweb/!svn/ver/699/B2B/trunk/test/integration/ReturnTests.groovy
+END
+DeleteInactiveUsersJobTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/subversion/b2bweb/!svn/ver/699/B2B/trunk/test/integration/DeleteInactiveUsersJobTests.groovy
+END
+OrderFlowTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/1987/B2B/trunk/test/integration/OrderFlowTests.groovy
+END
+ReturnsServiceTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/699/B2B/trunk/test/integration/ReturnsServiceTests.groovy
+END
+ShipToTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/subversion/b2bweb/!svn/ver/699/B2B/trunk/test/integration/ShipToTests.groovy
+END

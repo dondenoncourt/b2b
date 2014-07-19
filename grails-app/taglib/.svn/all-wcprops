@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/subversion/b2bweb/!svn/ver/1203/B2B/trunk/grails-app/taglib
+END
+KettlerTagLib.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/subversion/b2bweb/!svn/ver/1203/B2B/trunk/grails-app/taglib/KettlerTagLib.groovy
+END
+CASTagLib.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/taglib/CASTagLib.groovy
+END
+PdfTagLib.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/taglib/PdfTagLib.groovy
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/login
+END
+changePassword.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/login/changePassword.gsp
+END
+login.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/login/login.gsp
+END
+requestLogin.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/1283/B2B/trunk/grails-app/views/login/requestLogin.gsp
+END

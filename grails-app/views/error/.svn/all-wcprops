@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/error
+END
+internalError.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/error/internalError.gsp
+END
+error.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/error/error.gsp
+END

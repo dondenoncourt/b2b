@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/order/order
+END
+endOrderFlow.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/order/endOrderFlow.gsp
+END
+createShipTo.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/order/createShipTo.gsp
+END
+lineDisc.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/order/order/lineDisc.gsp
+END
+misc.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/order/misc.gsp
+END
+shippingInfo.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/order/order/shippingInfo.gsp
+END
+thirdPartyBill.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/order/thirdPartyBill.gsp
+END
+explodeBOM.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/order/explodeBOM.gsp
+END
+item.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/order/item.gsp
+END
+custBillToAddr.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/order/order/custBillToAddr.gsp
+END
+lineItemSubfile.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/order/lineItemSubfile.gsp
+END
+discAllow.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/1987/B2B/trunk/grails-app/views/order/order/discAllow.gsp
+END
+itemDetail.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/order/itemDetail.gsp
+END
+review.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/2035/B2B/trunk/grails-app/views/order/order/review.gsp
+END
+comment.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/subversion/b2bweb/!svn/ver/694/B2B/trunk/grails-app/views/order/order/comment.gsp
+END

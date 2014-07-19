@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/subversion/b2bweb/!svn/ver/3469/B2B/trunk/grails-app/views/returns/return
+END
+endReturnFlow.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/grails-app/views/returns/return/endReturnFlow.gsp
+END
+buildReturn.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/3469/B2B/trunk/grails-app/views/returns/return/buildReturn.gsp
+END
+promptCust.gsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/grails-app/views/returns/return/promptCust.gsp
+END

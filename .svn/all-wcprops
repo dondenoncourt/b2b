@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/subversion/b2bweb/!svn/ver/3524/B2B/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/subversion/b2bweb/!svn/ver/1928/B2B/trunk/.classpath
+END
+returns_ddl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/returns_ddl.sql
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/.project
+END
+build_notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/subversion/b2bweb/!svn/ver/1444/B2B/trunk/build_notes.txt
+END
+test2-test.launch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/test2-test.launch
+END
+ui_testing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/ui_testing.txt
+END
+test2.launch
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/test2.launch
+END
+mysqldump.sql.zip
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/subversion/b2bweb/!svn/ver/2345/B2B/trunk/mysqldump.sql.zip
+END
+test2.tmproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/test2.tmproj
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/subversion/b2bweb/!svn/ver/3309/B2B/trunk/application.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/subversion/b2bweb/!svn/ver/188/B2B/trunk/build.xml
+END
+grails-yui-kettler.zip
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/subversion/b2bweb/!svn/ver/1440/B2B/trunk/grails-yui-kettler.zip
+END
